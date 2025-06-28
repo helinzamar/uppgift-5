@@ -1,0 +1,24 @@
+{
+  "name": "uppgift-5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helinzamar/uppgift-5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helinzamar/uppgift-5/issues"
+  },
+  "homepage": "https://github.com/helinzamar/uppgift-5#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.0.3",
+    "selenium-webdriver": "^4.33.0"
+  }
+}
